@@ -8,4 +8,4 @@
 
 ### Clone
 1. Move to desired directory
-2. Run `rails new myapp -m 
+2. Run `rails new myapp -m git@github.com:shawnpk/template.git
